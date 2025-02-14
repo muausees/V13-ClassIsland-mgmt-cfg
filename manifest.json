@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "MUAUSEES-V13"
+    "OrganizationName": "MUAUSEES-V13",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/muausees/V13-ClassIsland-mgmt-cfg/master/classPlans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/muausees/V13-ClassIsland-mgmt-cfg/master/timeLayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/muausees/V13-ClassIsland-mgmt-cfg/master/subjects.json",
+        "Version": 1
+    }
 }
